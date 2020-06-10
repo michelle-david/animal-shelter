@@ -1,0 +1,21 @@
+body  {
+  font-family: sans-serif;
+  margin: 16px;
+  color: grey;
+  background-color: black;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  margin: 10px;
+  border: 10px;
+  padding: 10px;
+}
+
+.image {
+  width: 300px;
+  float: left;
+  border: 5px;
+  padding: 10px;
+}
